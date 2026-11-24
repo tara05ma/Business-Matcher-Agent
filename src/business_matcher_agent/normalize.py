@@ -3,11 +3,7 @@
 Nothing here changes the register. These functions only produce cleaned copies
 that are used for comparing.
 """
-import json
 import re
-from pathlib import Path
-
-import requests
 
 # ---------------------------------------------------------------------------
 # Company names
@@ -88,7 +84,7 @@ def normalize_city(city: str | None) -> str:
 
 
 # ---------------------------------------------------------------------------
-# Addresses: layer 1, local rules (always available, offline)
+# Addresses (local rules only; nothing is sent to an outside service)
 # ---------------------------------------------------------------------------
 
 # Street words -> USPS standard abbreviation, so every spelling ends up the same.
@@ -168,8 +164,14 @@ def _street_key(street_line: str) -> str:
     return ""
 
 
-def normalize_address_local(address: str | None) -> dict | None:
-    """Standardise an address with simple rules. Returns None for an empty address."""
+def normalize_address(address: str | None) -> dict | None:
+    """Standardise an address so two addresses can be compared part by part.
+
+    "1790 Bay Boulevard, Suite 2, Atlantic Beach NY 11509" ->
+    {"standard": "1790 BAY BLVD, 11509", "street_number": "1790",
+     "street_name": "BAY BLVD", "zip": "11509"}
+    Returns None for an empty address.
+    """
     if not address or not address.strip():
         return None
 
@@ -186,83 +188,7 @@ def normalize_address_local(address: str | None) -> dict | None:
         "street_number": number,
         "street_name": street_name or None,
         "zip": zip_code,
-        "source": "local",
     }
-
-
-# ---------------------------------------------------------------------------
-# Addresses: layer 2, US Census Geocoder (optional, online, cached)
-# ---------------------------------------------------------------------------
-
-CENSUS_URL = "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress"
-CACHE_PATH = Path(__file__).resolve().parents[2] / "data" / "census_cache.json"
-
-
-def _load_cache() -> dict:
-    try:
-        return json.loads(CACHE_PATH.read_text())
-    except (FileNotFoundError, json.JSONDecodeError):
-        return {}
-
-
-def _census_lookup(address: str) -> dict | None:
-    """Ask the Census Geocoder for a standard address. Cached; returns None on any failure."""
-    cache = _load_cache()
-    key = address.strip().upper()
-    if key in cache:
-        return cache[key]
-
-    try:
-        resp = requests.get(
-            CENSUS_URL,
-            params={"address": address, "benchmark": "4", "format": "json"},
-            timeout=10,
-        )
-        resp.raise_for_status()
-        matches = resp.json()["result"]["addressMatches"]
-    except (requests.RequestException, KeyError, ValueError):
-        return None  # network problem or unexpected reply: don't cache, fall back
-
-    result = None
-    if matches:
-        best = matches[0]
-        parts = best.get("addressComponents", {})
-        street_line = " ".join(
-            p for p in [
-                parts.get("fromAddress"), parts.get("preDirection"),
-                parts.get("streetName"), parts.get("suffixType"),
-                parts.get("suffixDirection"),
-            ] if p
-        )
-        street = _street_key(street_line)
-        result = {
-            "standard": best.get("matchedAddress"),
-            "street_number": parts.get("fromAddress"),
-            "street_name": street[len(parts.get("fromAddress", "")):].strip() or None,
-            "zip": parts.get("zip"),
-            "city": parts.get("city"),
-            "source": "census",
-        }
-
-    cache[key] = result  # also cache "no match", so we never ask twice
-    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    CACHE_PATH.write_text(json.dumps(cache, indent=1))
-    return result
-
-
-def normalize_address(address: str | None, use_census: bool = False) -> dict | None:
-    """Standardise an address so two addresses can be compared part by part.
-
-    Uses the US Census Geocoder when use_census=True and it finds a match;
-    otherwise falls back to the local rules. Returns None for an empty address.
-    """
-    if not address or not address.strip():
-        return None
-    if use_census:
-        census = _census_lookup(address)
-        if census:
-            return census
-    return normalize_address_local(address)
 
 if __name__ == "__main__":
     print(normalize_name("Fairway Marina INC. LLC"))

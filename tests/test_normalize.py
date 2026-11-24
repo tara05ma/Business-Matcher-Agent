@@ -69,7 +69,7 @@ def test_city_ignores_state():
     assert normalize_city(None) == ""
 
 
-# --- normalize_address (local rules only; no network in tests) -------------
+# --- normalize_address -------------------------------------------------------
 
 def test_address_street_spellings_match():
     a = normalize_address("28 LIBERTY ST.")
@@ -86,7 +86,6 @@ def test_address_parts():
     assert result["street_number"] == "1790"
     assert result["street_name"] == "BAY BLVD"
     assert result["zip"] == "11509"
-    assert result["source"] == "local"
 
 
 def test_address_empty():

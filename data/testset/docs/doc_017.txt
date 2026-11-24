@@ -1,0 +1,51 @@
+From: billing@granitepoint.example
+To: accounts@canarsiecatering.example
+Date: 14 March 2025
+Subject: PREMIUM INVOICE GPI-2025-0447 / Canarsie Catering
+
+Granitepoint Insurance Group
+Commercial Lines Billing
+Tel: (212) 555-0182
+
+INVOICE / PREMIUM BILL
+
+Invoice No:   GPI-2025-0447
+Policy No:    CGL-88219-R
+Account Ref:  Canarsie Catering
+Billing Period: 01/04/2025 - 31/03/2026
+
+Bill To:
+Canarsie Catering
+
+Broker of record: Quillfeather Brokerage Group
+
+Certificate Holder (for information only):
+Bay Ridge Plaza Owners LLC
+Additional insured endorsement attached to policy CGL-88219-R
+
+-----------------------------------------------------------------------
+DESCRIPTION                              QTY      AMOUNT (USD)
+-----------------------------------------------------------------------
+General Liability Premium                 1         4,250.00
+Liquor Liability Endorsement              1           615.00
+Additional Insured Endorsement (BRPO)     1            75.00
+Premium Finance Fee                       1            40.00
+Policy Fee                                1            50.00
+-----------------------------------------------------------------------
+                                  Subtotal:         5,030.00
+                                  Tax (8.875%):       446.91
+                                  TOTAL DUE:        5,476.91
+-----------------------------------------------------------------------
+
+Payment terms: Net 30. Please quote invoice no. on all remittances.
+Instalment option available, call billing on (212) 555-0199.
+Late payments may attract a 1.5% monthly charge.
+
+Remit to: Granitepoint Insurance Group, PO Box 4410, New York NY 10163-4410
+
+This invoice is issued for premium purposes only and does not alter
+the terms, conditions or limits of the policy. Please refer to the
+policy schedule for full coverage details. If you believe this bill
+is in error, contact us within 14 days.
+
+Sent by billing@granitepoint.example. Do not reply to this address.

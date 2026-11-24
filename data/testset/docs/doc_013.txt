@@ -1,0 +1,59 @@
+From: billing@granitepoint.example
+To: accounts@thewellsgroup.example
+Date: 14 March 2025
+Subject: Premium Invoice INV-4418 / Policy GPC-2291-07
+
+Granitepoint Insurance Group
+Commercial Lines Billing
+Tel: (212) 555-0147
+
+PREMIUM INVOICE
+
+Invoice No:   INV-4418
+Policy No:    GPC-2291-07
+Broker:       Quillfeather Brokerage Group (ref QBG-0932)
+Term:         01/04/2025 to 31/03/2026
+
+Bill to:
+THE WELLS GROUP
+145 70TH ST
+BROOKLYN
+11209
+
+Certificate holder: Silver Plaza Owners LLC
+
+Description                              Amount (USD)
+----------------------------------------------------
+General Liability premium                  4,260.00
+Property premium, 145 70TH ST              2,815.50
+Umbrella excess layer                        890.00
+Policy fee                                    75.00
+Insurance premium tax (4%)                   512.62
+----------------------------------------------------
+Subtotal                                  8,553.12
+Less instalment credit                     -150.00
+----------------------------------------------------
+TOTAL DUE                                 8,403.12
+
+Payment due by: 15/04/2025
+Instalment 1 of 4 (quarterly)
+
+Please quote invoice number INV-4418 with your
+payment. Cheques payable to Granitepoint Insurance
+Group. Bank details are on the back of this notice
+or available from the billing team on request.
+
+If you have questions about this invoice, contact
+billing@granitepoint.example quoting the policy
+number above. Do not reply to this email address.
+
+CONFIDENTIALITY NOTICE: This message and any
+attachments are intended only for the addressee.
+If you have received it in error please notify
+the sender and delete it. Premium figures are
+subject to the terms, conditions and endorsements
+of the policy and may be adjusted on audit.
+
+Regards,
+Accounts Receivable
+Granitepoint Insurance Group

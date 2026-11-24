@@ -1,0 +1,48 @@
+From: billing@copperleafcas.example
+To: accounts receivable
+Subject: Premium Invoice INV-7741192 - policy renewal
+Date: 03/14/2025 9:12 AM
+
+Copperleaf Casualty Insurance Co.
+Premium Billing Dept.
+PO Box 4410
+Hartford CT 06120
+Tel (860) 555-0148
+
+INVOICE / PREMIUM BILL
+
+Invoice No:   INV-7741192
+Policy No:    CGL-88207-HD
+Bill Date:    03/14/2025
+Due Date:     04/13/2025
+
+Bill To:
+MOORE BETTER HOMES HOUSING DEV FUND COMPANY, INC.
+
+Broker: Fenmore & Achterberg Brokerage
+Certificate Holder / Additional Interest: Canarsie Plaza Owners LLC
+
+Description                                Amount
+-----------------------------------------------------
+Commercial General Liability premium      $4,218.00
+  (term 04/01/2025 - 04/01/2026)
+Additional insured endorsement (CG 20 26)    $185.00
+Terrorism coverage                           $96.40
+Policy fee                                   $75.00
+Surplus lines tax (3.6%)                    $160.85
+-----------------------------------------------------
+Subtotal                                  $4,735.25
+Less deposit paid                          -$900.00
+-----------------------------------------------------
+AMOUNT DUE                                $3,835.25
+
+Payment options: check payable to Copperleaf Casualty
+Insurance Co., referencing invoice number above, or
+ACH per remittance slip enclosed.
+
+Questions re: billing contact Dana Whitcombe
+dwhitcombe@copperleafcas.example  (860) 555-0172
+
+This invoice reflects premium based on information on file as of the bill date. Coverage is subject to the terms, conditions and exclusions of the policy. Premium is subject to audit. Please notify us promptly of any change in operations, payroll or exposures. This bill does not modify policy terms. In case of conflict, the policy controls.
+
+CONFIDENTIAL: intended only for the named addressee.

@@ -1,0 +1,50 @@
+From: billing@northlantern-mutual.example
+To: OSTUNI VENTURES
+Subject: Premium Invoice - Policy NMC-GL-44210 - due 30 days
+Date: 14 March 2025
+
+NORTHLANTERN MUTUAL INSURANCE COMPANY
+Commercial Lines Billing
+Tel: (555) 014-2290   billing@northlantern-mutual.example
+
+INVOICE No. INV-2025-03187          Page 1 of 1
+
+Bill to:
+OSTUNI VENTURES
+(address on file not supplied - please advise)
+
+Policy no.: NMC-GL-44210
+Policy period: 01/04/2025 - 31/03/2026
+Producer: Tamberlane Risk Partners (ref TRP-7731)
+Additional interest / certificate holder: Silver Plaza Owners LLC
+
+Description                                   Amount
+----------------------------------------------------------
+General liability premium (annual)          4,860.00
+Additional insured endorsement - landlord      225.00
+Certificate issuance fee (x2)                   60.00
+Policy fee                                      75.00
+Insurance premium tax (4.0%)                   204.60
+                                          ----------
+Subtotal                                     5,220.00
+Less: deposit paid 14/02/2025                -1,000.00
+----------------------------------------------------------
+AMOUNT DUE                                   4,220.60
+
+Payment terms: 30 days from invoice date.
+Instalments available on request - ask your producer.
+Please quote invoice no. and policy no. with payment.
+
+Remit to: Northlantern Mutual Insurance Company, Accounts
+Receivable, PO Box 9920, Hartford Reach Unit 4
+
+Queries: ar.help@northlantern-mutual.example
+Ext 2290 (Mon-Fri 8:30-5)
+
+This invoice is a statement of premium only and does not
+alter the terms, conditions or limits of the policy. Cover
+is subject to the full policy wording. If you believe this
+invoice is in error contact us within 14 days. E&OE.
+
+--
+Sent from the billing system. Do not reply to this address.

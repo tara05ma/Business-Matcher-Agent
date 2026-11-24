@@ -1,0 +1,45 @@
+From: Copperleaf Casualty Insurance Co. Billing <billing@copperleaf.example>
+To: Bay Ridge Movers Corp.
+Date: 14 March 2025
+Subject: Premium invoice INV-204118 / Policy CMV-553901-02
+
+Copperleaf Casualty Insurance Co.
+Commercial Billing Dept.
+PO Box 4410
+Phone: (212) 555-0147
+
+INVOICE
+
+Bill to:
+Bay Ridge Movers Corp.
+Brooklyn
+
+Invoice no: INV-204118
+Policy no: CMV-553901-02
+Policy period: 01/04/2025 to 01/04/2026
+Payment due: 28/03/2025
+
+Description                                   Amount
+-------------------------------------------------------
+Commercial auto liability, 6 units        $4,812.00
+Cargo legal liability, per shipment         $1,140.50
+Physical damage, scheduled vehicles          $986.25
+Additional insured endorsement,
+  Summit Plaza Owners LLC (cert. holder)       $75.00
+Policy fee                                      $35.00
+Taxes and surcharges                           $412.60
+-------------------------------------------------------
+TOTAL DUE                                    $7,461.35
+
+Certificate of insurance on file for: Summit Plaza Owners LLC
+Please quote the invoice number with your payment.
+
+Payment by cheque or ACH only. Card payments are not accepted
+for premium over $5,000.
+
+Questions about this invoice: billing@copperleaf.example
+Ref: CMV-553901-02 / INV-204118
+
+This is a computer generated invoice. Coverage is governed by the
+policy terms and conditions. Nothing in this invoice changes the policy.
+If you believe any amount is incorrect, contact us within 30 days.

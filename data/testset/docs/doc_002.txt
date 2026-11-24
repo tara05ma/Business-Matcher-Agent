@@ -1,0 +1,45 @@
+From: billing@copperleafcas.example
+To: accounts@gowanusprint.example
+Subject: Premium invoice INV-7741 - due 30 days
+Date: Mon, 3 Mar 2025 09:14
+
+INVOICE / PREMIUM BILL
+
+Copperleaf Casualty Insurance Co.
+Billing dept, PO Box 4410
+Tel: (555) 218-0467
+
+Bill to:
+Gowanus Printing Corp.
+Brooklyn
+
+Invoice no: INV-7741
+Policy no:  CPL-GL-22-0918
+Policy period: 01/04/2025 to 01/04/2026
+Broker: Fenmore & Achterberg Brokerage (ref FAB-3305)
+
+Description                          Qty    Amount (USD)
+-----------------------------------------------------------
+Commercial general liability premium  1      4,260.00
+Products-completed ops endorsement    1        385.00
+Additional insured - certificate      1         50.00
+   (Bright Plaza Owners LLC)
+Policy fee                            1         75.00
+Surplus lines tax (3.6%)              -        169.11
+                                       ---------------
+                                      Subtotal   4,939.00
+                                      Taxes          -
+                                      TOTAL DUE  4,939.11
+
+Payment terms: net 30. Please quote invoice no. on all remittances.
+Late payments may attract a service charge of 1.5% per month.
+
+Make cheques payable to Copperleaf Casualty Insurance Co.
+Questions to Dana Whitcombe, billing@copperleafcas.example, (555) 218-0492
+
+This invoice is issued under the policy terms shown above. Coverage
+is subject to the policy conditions, exclusions and endorsements. If
+you believe this invoice is in error, contact us within 14 days.
+This email and any attachments are confidential and intended only for
+the named recipient. If you received it in error please delete it and
+notify the sender.

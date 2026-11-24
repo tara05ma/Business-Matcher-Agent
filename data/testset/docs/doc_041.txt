@@ -1,0 +1,55 @@
+From: Northlantern Mutual Insurance Company - Billing
+Sent: Tuesday 14 May 2024 09:12
+To: ALSULTAN EXPORT - IMPORT
+Subject: Premium invoice INV-70413 - please remit
+
+PREMIUM INVOICE
+
+Invoice no:   INV-70413
+Policy no:    CGL-2291-0857
+Account ref:  ASX/IMP-0044
+Invoice date: 14/05/2024
+Due date:     13/06/2024
+
+Billed to:
+ALSULTAN EXPORT - IMPORT
+
+Broker: Quillfeather Brokerage Group (ref QBG-1182)
+Additional insured / certificate holder: EGYPTIAN AMERICAN NETWORK LLC (landlord, premises lease)
+
+Description                                   Amount (USD)
+------------------------------------------------------------
+Commercial general liability premium
+  (annual, pro rata 01/05/24 - 30/04/25)          4,850.00
+Premises liability endorsement                       310.00
+Additional insured endorsement (landlord)            125.00
+Policy fee                                            75.00
+Insurance premium tax (4.5%)                         236.25
+------------------------------------------------------------
+Total due                                          5,596.25
+
+Less deposit received 28/04/2024                  -1,200.00
+------------------------------------------------------------
+BALANCE DUE                                        4,396.25
+
+Please quote invoice no. INV-70413 and policy no. CGL-2291-0857
+with your payment. Cheques payable to Northlantern Mutual
+Insurance Company. Bank details are on the reverse of this
+page, or ask our billing desk on 555-0148.
+
+Queries: billing@northlantern.example
+Our ref: ML/bill/0514
+
+This invoice is issued under the terms of policy CGL-2291-0857.
+Nothing in this invoice changes the cover, limits or exclusions
+of that policy. If you believe any amount is wrong, contact us
+within 14 days. Late payment may lead to cancellation of cover
+in line with the policy conditions. Premium amounts are shown
+in USD and include all applicable taxes.
+
+--
+Marcus Lindqvist
+Premium Accounts Officer
+Northlantern Mutual Insurance Company
+Tel: 555-0192
+marcus.lindqvist@northlantern.example

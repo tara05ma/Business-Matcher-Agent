@@ -1,0 +1,55 @@
+From: billing@bluewillow-assurance.example
+To: EBL CONTR CORP.
+Subject: Premium Invoice BW-PI-40817 - renewal pending
+Date: 14 March 2025
+
+Bluewillow Assurance Company
+Commercial Lines Billing
+PO Box 4420, Harrowgate Stn
+Tel: (555) 018-2294
+
+PREMIUM INVOICE
+
+Invoice No:  BW-PI-40817
+Policy No:   CGL-7720-3391
+Period:      01/04/2025 to 31/03/2026
+Bill to:     EBL CONTR CORP.
+Attn:        EDGAR R PINA
+Broker:      Quillfeather Brokerage Group
+
+Certificate holder noted on file: Bay Ridge Plaza Owners LLC
+
+-----------------------------------------------------------
+Item  Description                          Amount (USD)
+-----------------------------------------------------------
+1     General liability premium              4,812.00
+2     Products/completed ops endorsement       385.50
+3     Additional insured (landlord) fee         75.00
+4     Policy issuance fee                       40.00
+5     Surplus lines tax (3.6%)                 191.42
+-----------------------------------------------------------
+                          Subtotal:         5,503.92
+                          Less deposit:      (1,100.00)
+                          TOTAL DUE:        4,403.92
+-----------------------------------------------------------
+
+Payment due by 15/04/2025. Please quote invoice no. on
+all remittances. Late payments may result in cancellation
+notice under policy conditions.
+
+Remit to: Bluewillow Assurance Company, Lockbox 7741,
+          Harrowgate Stn
+
+Questions to billing@bluewillow-assurance.example or
+call (555) 018-2294 ext 3
+
+Regards,
+Doreen Vasquez-Holt
+Premium Accounts Analyst
+Bluewillow Assurance Company
+
+This invoice is a summary of premium charges only and does
+not alter the terms, conditions or limits of the policy.
+If there is any conflict, the policy governs. Taxes shown
+are estimates and subject to final filing. Please do not
+reply to this automated address.

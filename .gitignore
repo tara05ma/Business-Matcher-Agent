@@ -225,7 +225,6 @@ __marimo__/
 # Local data: the register is too large for GitHub and can be rebuilt
 data/*.csv
 data/*.db
-data/census_cache.json
 
 # Internal project brief
 Intern Project Brief Business Matcher Agent.pdf

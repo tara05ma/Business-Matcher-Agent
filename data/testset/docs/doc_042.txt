@@ -1,0 +1,51 @@
+From: billing@copperleafcas.example
+Sent: Mon 14 Oct 2024 09:12
+To: MJY SERVICES INC
+Subject: Premium invoice INV-20417 - policy renewal
+
+Copperleaf Casualty Insurance Co.
+Billing Dept, Premium Invoicing
+Tel: (212) 555-0147
+
+PREMIUM INVOICE
+
+Invoice No.:  INV-20417
+Policy No.:   GL-7730-2291
+Invoice Date: 14/10/2024
+Due Date:     13/11/2024
+
+Bill To:
+MJY SERVICES INC
+FOREST HILL RD
+Staten Island
+10314
+
+Broker: Fenmore & Achterberg Brokerage
+Certificate Holder: Union Plaza Owners LLC (as additional interest)
+
+Description                         Period              Amount
+-----------------------------------------------------------------
+General liability premium           01/11/24-31/10/25    $4,180.00
+Additional insured endorsement      01/11/24-31/10/25      $95.00
+Premises liability surcharge        01/11/24-31/10/25     $310.50
+Policy fee                                                  $25.00
+-----------------------------------------------------------------
+Subtotal                                                 $4,610.50
+State surcharge (2.5%)                                     $115.26
+-----------------------------------------------------------------
+TOTAL DUE                                                $4,725.76
+
+Payment Terms: Net 30. Pay by cheque or ACH quoting Invoice No.
+INV-20417. Late payments may attract a finance charge of 1.5% per
+month.
+
+Questions? Contact premium.billing@copperleafcas.example or
+(212) 555-0162.
+
+This invoice is issued for premium only. Coverage is governed by
+the policy wording and declarations. Please do not remit to the
+broker's account unless directed in writing.
+
+--
+Copperleaf Casualty Insurance Co. | Premium Billing
+Ref: BIL/24/10/0417 | Page 1 of 1

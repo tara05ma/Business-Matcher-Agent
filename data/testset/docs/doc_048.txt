@@ -1,0 +1,42 @@
+From: billing@copperleafcas.example
+To: accounts@chaimconstruction.example
+Date: 3/14/2025 9:02 AM
+Subject: Premium invoice INV-40817 - policy renewal
+
+Please find premium invoice below. Pay by the due date to avoid a late fee.
+
+COPPERLEAF CASUALTY INSURANCE CO.
+Premium Billing Dept.
+Tel (555) 310-4422
+
+INVOICE NO: INV-40817
+POLICY NO: CCI-GL-220931-R
+BILL TO: CHAIM CONSTRUCTION DIAMONDS LLC
+Brooklyn
+INVOICE DATE: 03/14/2025
+DUE DATE: 04/13/25
+
+DESCRIPTION                             AMOUNT
+-----------------------------------------------
+General Liability Premium (annual)     $4,218.00
+Additional Insured Endorsement -        $ 135.00
+  Empire Plaza Owners LLC (cert holder)
+Blanket Waiver of Subrogation           $   85.00
+Policy Fee                              $   40.00
+Surplus Lines Tax                       $  171.44
+-----------------------------------------------
+SUBTOTAL                               $4,531.44
+PAYMENTS RECEIVED                          $0.00
+BALANCE DUE                            $4,531.44
+
+Payment may be made by check payable to Copperleaf Casualty Insurance Co. Please write the invoice number on your check. Installment plans are available on request, subject to a $25 fee per installment.
+
+Questions about this invoice: billing@copperleafcas.example or (555) 310-4480, ext 12.
+
+Thank you for your business.
+
+Marcus Ellery
+Billing Specialist
+Copperleaf Casualty Insurance Co.
+
+CONFIDENTIALITY NOTICE: This message and any attachments are intended only for the named recipient and may contain privileged information. If you received it in error, please notify the sender and delete it. Any unauthorized review, use or distribution is prohibited.

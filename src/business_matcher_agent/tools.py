@@ -76,6 +76,11 @@ def _search_index() -> tuple[list[str], list[str], Counter]:
     return names, ids, address_counts
 
 
+def warm_up() -> None:
+    """Build the search index now, so the first real search isn't slow."""
+    _search_index()
+
+
 def _name_scores(query: str, names: list[str]) -> dict[int, float]:
     """Score register names against the query; returns {position in names: score}.
 

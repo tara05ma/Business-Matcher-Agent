@@ -1,0 +1,35 @@
+Northlantern Mutual Insurance Company
+Premium Billing Dept.
+billing@northlantern.example | tel 555-0148
+
+PREMIUM INVOICE
+
+Invoice No: NMI-2024-07733      Date: 03/11/2024
+Policy No: CGL-881-204519       Term: 01/01/2024 - 01/01/2025
+
+Bill To: ZEV GER
+(please remit per address on file)
+
+Certificate holder: Keystone Plaza Owners LLC
+Broker of record: Tamberlane Risk Partners
+
+Line items:
+1. Commercial general liability premium ........... 4,812.00
+2. Additional insured endorsement (landlord) ......   275.00
+3. Policy fee ....................................    35.00
+4. Surplus lines tax (2.5%) ......................   128.20
+5. Less: prior payment credit ...................  -1,200.00
+
+Total due:                                         4,050.20
+Due date: 02/10/2024
+
+Payment terms net 30. Please include the invoice number on your remittance.
+Cheques payable to Northlantern Mutual Insurance Company.
+
+Questions about this bill? Reply to billing@northlantern.example
+quoting the invoice number above.
+
+This invoice reflects premium as of the date shown. Coverage is subject
+to the policy terms, conditions and endorsements. In the event of a
+conflict between this invoice and the policy, the policy governs.
+Please do not send payment without reference to the invoice number.

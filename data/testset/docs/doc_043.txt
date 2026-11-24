@@ -1,0 +1,37 @@
+From: billing@bluewillow-assurance.example
+To: accounts@jeanpierre-client.example
+Date: 14 March 2025
+Subject: Premium invoice INV-40817 - policy renewal
+
+Bill To:
+JEAN PIERRE MGMT INC
+(address on file - not supplied)
+
+Insurer: Bluewillow Assurance Company
+Policy No: CGL-772039-R2
+Invoice No: INV-40817
+Due Date: 13 April 2025
+Certificate Holder: Harbor Plaza Owners LLC
+
+Description                              Amount
+---------------------------------------------------
+General Liability premium (Jan-Dec)      $4,212.00
+Umbrella endorsement                       $385.50
+Additional insured endorsement              $75.00
+Policy fee                                  $40.00
+Premium tax                                $318.46
+---------------------------------------------------
+Subtotal                                 $4,652.96
+Less deposit paid                        ($1,200.00)
+---------------------------------------------------
+BALANCE DUE                              $3,452.96
+
+Payment options: cheque payable to Bluewillow Assurance Company, quoting invoice number above, or pay online via the customer portal. Please reference policy CGL-772039-R2 on all remittances.
+
+Questions about this invoice: call 555-0142 (Mon-Fri, 9am-5pm) or email billing@bluewillow-assurance.example
+
+Certificate holder copy will be issued to Harbor Plaza Owners LLC on receipt of payment in full. Late payments may result in cancellation of coverage per policy terms. Please do not reply to this automated notice.
+
+CONFIDENTIALITY NOTICE: This message and any attachments are intended only for the addressee. If you received it in error, notify the sender and delete all copies. Bluewillow Assurance Company accepts no liability for unauthorised use or disclosure.
+
+Ref: BWA/AR/0314-22 | Page 1 of 1
